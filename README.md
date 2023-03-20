@@ -9,3 +9,13 @@ Growth Mindset means never stuck in comfort zone and challange yourself each day
 - Find a new thing to try regulary.
 - Read about inspiring people's life.
 - Say more yes to oppourtunites. 
+
+#### Who I am
+My name is Fi. I am an architect and I wanted a new challange in my life so started learning code! Along with larning coding, my interest include:
+-Tennis
+-Pottery
+-Long hikings
+
+![successful cat](http://growthmindsetmemes.blogspot.com/2018/02/my-mistakes-help-me-grow.html)
+
+This is my github [HERE](https://github.com/Fi717)
