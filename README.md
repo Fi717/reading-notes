@@ -16,6 +16,6 @@ My name is Fi. I am an architect and I wanted a new challange in my life so star
 -Pottery
 -Long hikings
 
-![successful cat]([http://growthmindsetmemes.blogspot.com/2018/02/my-mistakes-help-me-grow.html](https://www.flickr.com/photos/38299630@N05/20870669772))
+![successful cat][([http://growthmindsetmemes.blogspot.com/2018/02/my-mistakes-help-me-grow.html](https://www.flickr.com/photos/38299630@N05/20870669772))](http://growthmindsetmemes.blogspot.com/2015/08/english-let-anothers-success-inspire-you.html)
 
 This is my github [HERE](https://github.com/Fi717)
