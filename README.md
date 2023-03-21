@@ -2,7 +2,7 @@
 
 
 #### Who I am
-My name is Fi. I am an architect and I wanted a new challange in my life so started learning code! Along with larning coding, my interest include:
+My name is Fi. I am an architect and I wanted a new challange in my life so started learning code! Along with learning coding, my interest include:
 
 - Tennis
 - Pottery
